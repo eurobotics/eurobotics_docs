@@ -1,0 +1,110 @@
+1
+00:00:00,000 --> 00:00:06,080
+Este es un montaje diseñado para probar la aderencia de los neumáticos,
+
+
+2
+00:00:06,080 --> 00:00:07,440
+comunmente llamado "grip"
+
+3
+00:00:07,440 --> 00:00:09,800
+- está inspirado en la idea de Jacques Coulon - :
+
+
+4
+00:00:09,839 --> 00:00:13,480
+El robot con dos ruedas de foam bloqueadas es tirado por una cuerda
+
+
+5
+00:00:13,480 --> 00:00:16,679
+con dos pesos, para simular el peso real del robot
+
+6
+00:00:16,679 --> 00:00:24,480
+La cuerda pasa a través de una polea, al final de la cuerda tenemos un cubo con elementos pesados.
+
+7
+00:00:24,480 --> 00:00:26,839
+Ahora el robot se encuentra en equilibrio,
+
+8
+00:00:26,879 --> 00:00:29,839
+esto significa que el agarre de las ruedas pueden sujetar su peso,
+
+
+9
+00:00:29,839 --> 00:00:33,359
+y si le añadimos peso al cubo ...
+
+
+10
+00:00:33,359 --> 00:00:38,159
+debido al peso extra, la fuerza que tira del robot es más fuerte que la fuerza de las ruedas en el suelo,
+
+11
+00:00:38,159 --> 00:00:39,839
+por ello el robot desliza,
+
+12
+00:00:39,840 --> 00:00:42,720
+lo que significa que hemos alcanzado la máxima adhesión de los neumáticos.
+
+13
+00:00:42,719 --> 00:00:49,119
+Vamos a realizar esta prueba con otros dos neumáticos.
+
+14
+00:00:49,119 --> 00:00:52,559
+Realizamos el mismo experimento con neumáticos "Take Off".
+
+15
+00:00:52,600 --> 00:00:55,000
+Neumático de caucho liso, no es foam.
+
+16
+00:00:56,320 --> 00:01:05,680
+el peso añadido al cubo es mayor que en el experimento anterior.
+
+17
+00:01:05,719 --> 00:01:11,719
+El robot está al límite, un incremento en el empuje le hará deslizar.
+
+18
+00:01:11,719 --> 00:01:20,920
+Podemos hacer una comparación: estas ruedas aunque son un poco más pequeñas tienen más tracción que las anteriores.
+
+19
+00:01:20,920 --> 00:01:29,719
+El tercer experimento se hace con "rain tyre", usadas por EPO (RCVA-2) en 2009.
+
+20
+00:01:29,719 --> 00:01:37,480
+Cambiamos las ruedas y ponemos dos barras de aluminio en el cubo.
+
+21
+00:01:37,480 --> 00:01:38,480
+Podemos ver que el robot está en equilibrio
+
+22
+00:01:38,480 --> 00:01:47,800
+y si añadimos más peso, no soporta más agarrare.
+
+23
+00:01:47,920 --> 00:01:50,000
+Conclusión :
+
+24
+00:01:50,439 --> 00:01:52,159
+yo creo que estas son las mejores, Ka aproximadamente 1
+
+25
+00:01:52,279 --> 00:01:54,519
+estas otras, son un poco peores,
+
+26
+00:01:54,560 --> 00:01:57,879
+y las ruedas que llevamos usando los últimos 6 años (las de foam), son muy malas.
+
+
